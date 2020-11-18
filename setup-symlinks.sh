@@ -1,1 +1,2 @@
-ln -s ./vimrc ~/.vimrc
+ln -fs ./vimrc ~/.vimrc
+ln -fs ./zshrc ~/.zshrc
